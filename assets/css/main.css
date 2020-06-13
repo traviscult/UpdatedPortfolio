@@ -3320,7 +3320,9 @@ input, select, textarea {
 
 .Travis-image {
 	max-width: 450px;
-	margin-bottom: 40px;
+	margin-bottom: 25px;
+	border-radius: 25px;
+	box-shadow: 0 4px 8px 0 rgba(63, 62, 62, 0.2), 0 6px 20px 0 rgba(255, 255, 255, 0.19);
 	
 }
 
