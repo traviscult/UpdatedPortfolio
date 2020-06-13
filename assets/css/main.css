@@ -2752,7 +2752,7 @@ input, select, textarea {
 		background-size: auto,							cover;
 		border-top: 0 !important;
 		color: #cacacb;
-		padding: 6em 3em;
+		padding: 3em 3em;
 		text-align: center;
 	}
 
@@ -2761,7 +2761,7 @@ input, select, textarea {
 		}
 
 		#banner h2 {
-			margin: 0 0 2em 0;
+			margin: 0 0 1em 0;
 		}
 
 		#banner .button {
@@ -3316,3 +3316,9 @@ input, select, textarea {
 				}
 
 	}
+
+.Travis-image {
+	max-width: 450px;
+	margin-bottom: 40px;
+	
+}
