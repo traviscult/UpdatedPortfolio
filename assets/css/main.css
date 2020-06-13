@@ -2520,6 +2520,7 @@ input, select, textarea {
 		border-top: solid 1px #313032;
 		height: 17em;
 		margin: 0 0 4em 0;
+		margin-bottom: 150px;
 		padding: 4em 0 0 0;
 		position: relative;
 		width: 100%;
@@ -3321,4 +3322,9 @@ input, select, textarea {
 	max-width: 450px;
 	margin-bottom: 40px;
 	
+}
+
+.applicationPhoto {
+	box-shadow: 0 4px 8px 0 rgba(63, 62, 62, 0.2), 0 6px 20px 0 rgba(255, 255, 255, 0.19);
+	border-radius: 25px;
 }
