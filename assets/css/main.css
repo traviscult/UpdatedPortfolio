@@ -2800,9 +2800,9 @@ input, select, textarea {
 			line-height: 1.75em;
 		}
 
-			#footer h2 + p {
+			/* #footer h2 + p {
 				margin: 0 0 4em 0;
-			}
+			} */
 
 		#footer .icons {
 			border-top: solid 1px #313032;
