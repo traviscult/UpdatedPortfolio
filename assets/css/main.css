@@ -3319,6 +3319,8 @@ input, select, textarea {
 	}
 
 .Travis-image {
+	margin: 0 0 2em 0;
+    width: 100%;
 	max-width: 450px;
 	margin-bottom: 25px;
 	border-radius: 25px;
